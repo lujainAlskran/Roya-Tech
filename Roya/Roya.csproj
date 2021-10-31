@@ -280,6 +280,8 @@
     <Content Include="ar\assets\images\team\white-bg\zaid.jpeg" />
     <Content Include="ar\assets\images\team\zaid.jpg" />
     <Content Include="ar\assets\images\united-kingdom.png" />
+    <Content Include="ar\assets\images\value.png" />
+    <Content Include="ar\assets\images\vision.jpg" />
     <Content Include="ar\assets\inc\custom-slider\css\nivo-slider.css" />
     <Content Include="ar\assets\inc\custom-slider\css\preview.css" />
     <Content Include="ar\assets\inc\custom-slider\js\jquery.nivo.slider.js" />
@@ -334,6 +336,8 @@
     <Content Include="assets\fonts\fontawesome-webfont.svg" />
     <Content Include="assets\fonts\linea-basic-10.svg" />
     <Content Include="assets\fonts\linea-fonts.css" />
+    <Content Include="assets\images\vision.gif" />
+    <Content Include="assets\images\vision.jpg" />
     <Content Include="assets\images\about.jpg" />
     <Content Include="assets\images\bg\bg1.jpg" />
     <Content Include="assets\images\bg\bg4.jpg" />
@@ -375,10 +379,6 @@
     <Content Include="assets\images\counter\icon\3.png" />
     <Content Include="assets\images\counter\icon\4.png" />
     <Content Include="assets\images\counter\style2\main.png" />
-    <Content Include="assets\images\fav.png" />
-    <Content Include="assets\images\logo-blue.png" />
-    <Content Include="assets\images\logo-dark.png" />
-    <Content Include="assets\images\logo.png" />
     <Content Include="assets\images\partner\1.png" />
     <Content Include="assets\images\partner\2.png" />
     <Content Include="assets\images\partner\3.png" />
