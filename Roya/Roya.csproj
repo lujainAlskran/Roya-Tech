@@ -87,6 +87,8 @@
     <Content Include="ar\assets\fonts\fontawesome-webfont.svg" />
     <Content Include="ar\assets\fonts\linea-basic-10.svg" />
     <Content Include="ar\assets\fonts\linea-fonts.css" />
+    <Content Include="ar\assets\images\1.png" />
+    <Content Include="ar\assets\images\14.png" />
     <Content Include="ar\assets\images\about.jpg" />
     <Content Include="ar\assets\images\bg1.jpg" />
     <Content Include="ar\assets\images\bg3.jpg" />
@@ -336,6 +338,10 @@
     <Content Include="assets\fonts\fontawesome-webfont.svg" />
     <Content Include="assets\fonts\linea-basic-10.svg" />
     <Content Include="assets\fonts\linea-fonts.css" />
+    <Content Include="assets\images\1.png" />
+    <Content Include="assets\images\14.png" />
+    <Content Include="assets\images\19.png" />
+    <Content Include="assets\images\logo4-removebg-preview.png" />
     <Content Include="assets\images\vision.gif" />
     <Content Include="assets\images\vision.jpg" />
     <Content Include="assets\images\about.jpg" />
@@ -413,7 +419,6 @@
     <Content Include="assets\images\quote\right-bg.jpg" />
     <Content Include="assets\images\quote\right-bg2.jpg" />
     <Content Include="assets\images\roya-logo-dark.png" />
-    <Content Include="assets\images\roya-logo.png" />
     <Content Include="assets\images\roya-logo2.png" />
     <Content Include="assets\images\saudi-arabia.png" />
     <Content Include="assets\images\services\apps\1.png" />
@@ -741,6 +746,7 @@
     <Content Include="ar\index-ar.Master" />
     <None Include="packages.config" />
     <Content Include="style.less" />
+    <None Include="Properties\PublishProfiles\IISProfile.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

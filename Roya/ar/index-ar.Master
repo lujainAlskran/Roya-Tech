@@ -7,7 +7,7 @@
     <title>Roya Tech</title>
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
-    <!-- meta tag -->.
+    <!-- meta tag -->
         <meta charset="utf-8">
         <meta name="description" content="">
         <!-- responsive tag -->
@@ -73,9 +73,6 @@ $('body').removeClass('nav-expanded');
             <div class="spinner"></div>
         </div>
         <!--End preloader here -->
-		
-		
-		
         <!--Full width header Start-->
         <div class="full-width-header header-style2">
             <!-- Toolbar Start -->
@@ -90,20 +87,17 @@ $('body').removeClass('nav-expanded');
                         <div class="row">
                             <div class="col-lg-2">
                                 <div class="logo-area">
-                                    <a class="dark" href="index-ar.aspx"><img src="assets/images/roya-logo-dark.png" alt="logo"></a>
-                                    <a class="light" href="index-ar.aspx"><img src="assets/images/roya-logo2.png" alt="logo"></a>
-									
-									
+                                    <a class="dark" href="index-ar.aspx"><img src="assets/images/1.png" alt="logo"></a>
+                                    <a class="light" href="index-ar.aspx"><img src="assets/images/14.png" alt="logo"></a>
                                 </div>
                             </div>
-                            <div class="col-lg-9 text-right md-text-left">
+                            <div class="col-lg-10 text-center md-text-center">
                                 <div class="rs-menu-area">
                                     <div class="main-menu">
                                         <div class="mobile-menu">
 										<ul class="list-inline">
-									
-										<li class="list-inline-item"><a href="./ar/index-ar.html">
-                                            <img src="../assets/images/saudi-arabia.png" /></a></li>
+										<li class="list-inline-item"><a href="./Index.aspx">
+                                            English</a></li>
 									<li class="list-inline-item">
 									<a class="rs-menu-toggle">
 										<i class="fa fa-bars"></i>
@@ -111,13 +105,14 @@ $('body').removeClass('nav-expanded');
 									
 									</ul>
                                         </div>
-                                        <nav class="rs-menu pl-65">
+                                        <nav class="rs-menu pl-25">
                                             <ul id="onepage-menu" class="nav-menu">
                                                 <li class="active-menu"><a href="#rs-header">الصفحة الرئيسية</a></li>
                                                 <li><a href="#rs-services">الخدمات</a></li>
 												<li><a href="#rs-skillbar">المميزات</a></li>
                                                 <li><a href="#rs-team">الفريق</a></li>
 												<li><a href="#rs-about">عن الشركة</a></li>
+                                                <li><a href="career.aspx">الوظائف</a></li>
                                                 <li><a href="#rs-freequote" class="pl-3">للتواصل</a></li>
                                             </ul> <!-- //.nav-menu -->
                                         </nav>
@@ -129,7 +124,7 @@ $('body').removeClass('nav-expanded');
                                                     <i class="flaticon-search"></i>
                                                 </a>
                                             </li>
-											<li><a href="../Index.aspx"><img src="assets\images\united-kingdom.png"></a></li>
+											<li><a href="../Index.aspx">English</a></li>
                                             <li>
                                                 <a id="nav-expander" class="humburger nav-expander" href="#">
                                                     <span class="dot1"></span>
@@ -326,6 +321,14 @@ $('body').removeClass('nav-expanded');
                                     </div>
                                     <div class="post-desc">
                                         <a href="#rs-freequote">للتواصل</a>
+                                    </div>
+                                </div>
+                                <div class="post-wrap mb-15">
+                                    <div class="post-img">
+                                        <a href="#"><i class="fa fa-briefcase "></i></a>
+                                    </div>
+                                    <div class="post-desc">
+                                        <a href="career.aspx">الوظائف</a>
                                     </div>
                                 </div>
                             </div>

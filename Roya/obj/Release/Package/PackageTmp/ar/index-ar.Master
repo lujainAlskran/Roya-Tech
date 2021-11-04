@@ -118,6 +118,7 @@ $('body').removeClass('nav-expanded');
 												<li><a href="#rs-skillbar">المميزات</a></li>
                                                 <li><a href="#rs-team">الفريق</a></li>
 												<li><a href="#rs-about">عن الشركة</a></li>
+                                                <li><a href="career.aspx">الوظاائف</a></li>
                                                 <li><a href="#rs-freequote" class="pl-3">للتواصل</a></li>
                                             </ul> <!-- //.nav-menu -->
                                         </nav>
@@ -326,6 +327,14 @@ $('body').removeClass('nav-expanded');
                                     </div>
                                     <div class="post-desc">
                                         <a href="#rs-freequote">للتواصل</a>
+                                    </div>
+                                </div>
+                                <div class="post-wrap mb-15">
+                                    <div class="post-img">
+                                        <a href="#"><i class="fa fa-briefcase "></i></a>
+                                    </div>
+                                    <div class="post-desc">
+                                        <a href="career.aspx">الوظائف</a>
                                     </div>
                                 </div>
                             </div>

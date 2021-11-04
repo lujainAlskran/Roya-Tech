@@ -113,6 +113,5 @@ C:\Users\Dell\Desktop\Roya\Roya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPl
 C:\Users\Dell\Desktop\Roya\Roya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Dell\Desktop\Roya\Roya\obj\Debug\Roya.csproj.AssemblyReference.cache
 C:\Users\Dell\Desktop\Roya\Roya\obj\Debug\Roya.csproj.CoreCompileInputs.cache
-C:\Users\Dell\Desktop\Roya\Roya\obj\Debug\Roya.csproj.CopyComplete
 C:\Users\Dell\Desktop\Roya\Roya\obj\Debug\Roya.dll
 C:\Users\Dell\Desktop\Roya\Roya\obj\Debug\Roya.pdb

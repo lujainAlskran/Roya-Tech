@@ -11,7 +11,13 @@
                         <div class="content-part slide1">
                             <div class="slider-des">
                                 <h1 class="sl-title white-color">Welcome to Roya</h1>
-                                <div class="sl-desc white-color">Invest in the right way and design your store to start your first steps with success<br> with the help of a team of professional programmers and designers…</div>
+                                <div class="sl-desc white-color">
+                                    Invest in the right way.<br>
+                                    Move to your first step to Success, by Designing your own store.<br>
+                                    Our Team is ready for help.<br>
+                                    Kindly, rely on our Professional Programmers & Designers.<br>
+
+                                </div>
                             </div>
                             <div class="slider-bottom mt-45">
                                 <ul>
@@ -33,17 +39,15 @@
                                 
                            </div>
                         </div>
-                        <div class="col-lg-6 pl-20 md-pl-pr-15">
+                        <div class="col-lg-6 pl-20 md-pl-pr-15 pt-100">
                             <div class="sec-title mb-23 pr-85">
                                 <div class="sub-title primary">Our vision</div>
-                                <h2 class="title mb-20">Where do we want to go?</h2>
                                 <p class="desc mb-0">
                                     Inspiring the world and giving it the power of technology
 								</p>
-                                <div class="sub-title primary">Our message</div>
-                                <h2 class="title mb-20">What is our message to you?</h2>
+                                <div class="sub-title primary">Our mission</div>
                                 <p class="desc mb-0">
-Dazzle the world with what you have with smart solutions and open new horizons
+                                    Impress the world with what you have with smart solutions and open new horizons
                             </div>
                         </div>
                         
@@ -73,7 +77,7 @@ Dazzle the world with what you have with smart solutions and open new horizons
                                 <div class="sub-title primary">Our Company</div>
                                 <h2 class="title mb-20">Software development for strong performance</h2>
                                 <p class="desc mb-0">Develop reliable and scalable software solutions for any operating system, browser and device, 
-								We combine deep industry experience with the latest developments in the field of information technology to deliver customized solutions and products that perfectly suit users' needs
+								We combine deep industry experience with the latest updates and enhancements in this field of information technology to deliver customized solutions and products that perfectly suit users' needs
 								
 								</p>
                             </div>
@@ -148,7 +152,7 @@ Dazzle the world with what you have with smart solutions and open new horizons
                                 </div>
                                 <div class="content-part text-center">
                                     <h3 class="title">Support and maintenance</h3>
-                                    <div class="desc">ensure applications are highly available, reliable, and relevant to current business needs . </div>
+                                    <div class="desc">ensure that applications are high availability, reliability, and relevant to current business needs . </div>
                                 </div>
                             </div>
                         </div>
@@ -159,7 +163,7 @@ Dazzle the world with what you have with smart solutions and open new horizons
                                 </div>
                                 <div class="content-part text-center">
                                     <h3 class="title">UI / UX Design</h3>
-                                    <div class="desc">We combine the latest UI/UX trends with the goals and needs of our clients to deliver vibrant designs to enhance business</div>
+                                    <div class="desc">We combine the latest UI/UX trends with the goals and needs of our clients to deliver vibrant designs to enhance thier business</div>
                                 </div>
                             </div>
                         </div>
@@ -170,7 +174,8 @@ Dazzle the world with what you have with smart solutions and open new horizons
                                 </div>
                                 <div class="content-part text-center">
                                     <h3 class="title">Smartphone Applications</h3>
-                                    <div class="desc">Comprehensive mobile app development, from business analysis and UI/UX design to mobile app testing and deployment</div>
+                                    <div class="desc">Comprehensive mobile app development, starting with business analysis and UI/UX, in addition to mobile app testing and 
+development.</div>
                                 </div>
                             </div>
                         </div>
@@ -182,7 +187,7 @@ Dazzle the world with what you have with smart solutions and open new horizons
                                     <img src="assets/images/services/style2/t4.svg" alt="">
                                 </div>
                                 <div class="content-part text-center">
-                                    <h3 class="title">Deliver applications and services at high speed</h3>
+                                    <h3 class="title">DevOps Development</h3>
                                     <div class="desc">Ensuring rapid and continuous delivery and a high level of software quality through an approach that creates close collaboration between software engineers and DevOps<br></div>
                                 </div>
                             </div>
@@ -194,7 +199,7 @@ Dazzle the world with what you have with smart solutions and open new horizons
                                 </div>
                                 <div class="content-part text-center">
                                     <h3 class="title">Testing and Quality Control</h3>
-                                    <div class="desc">We help develop your quality assurance or improve an existing service We comprehensively test mobile, web and desktop applications at every stage of the development lifecycle.</div>
+                                    <div class="desc">We help develop your quality assurance or improve an existing service we are processing integral mobile testing, web and desktop applications as well on every stage of the development lifecycle.</div>
                                 </div>
                             </div>
                         </div>
@@ -204,8 +209,8 @@ Dazzle the world with what you have with smart solutions and open new horizons
                                     <img src="assets/images/services/style2/t6.jpg" alt="">
                                 </div>
                                 <div class="content-part text-center">
-                                    <h3 class="title">Dedicated Teams</h3>
-                                    <div class="desc">Expand your delivery capacity with smart, dedicated developers. Our clients succeed by leveraging the agile methodology process to build, motivate and manage software development teams</div>
+                                    <h3 class="title">API Development</h3>
+                                    <div class="desc">which is a software intermediary that allows two applications to talk to each other. Each time you use an app like Facebook, send an instant message, or check the weather on your phone</div>
                                 </div>
                             </div>
                         </div>
