@@ -91,7 +91,7 @@ $('body').removeClass('nav-expanded');
                                     <a class="light" href="index-ar.aspx"><img src="assets/images/14.png" alt="logo"></a>
                                 </div>
                             </div>
-                            <div class="col-lg-10 text-center md-text-center">
+                            <div class="col-lg-10 text-right">
                                 <div class="rs-menu-area">
                                     <div class="main-menu">
                                         <div class="mobile-menu">
@@ -235,7 +235,7 @@ $('body').removeClass('nav-expanded');
                         <div class="col-lg-4 col-md-12 col-sm-12 footer-widget md-mb-39">
                             <div class="about-widget pl-15">
                                 <div class="logo-part">
-                                    <a href="index-ar.html"><img src="assets/images/roya-logo2.png" alt="Footer Logo"></a>
+                                    <a href="index-ar.html"><img src="assets/images/14.png" alt="Footer Logo"></a>
                                 </div>
                                 <p class="desc">نقوم بشركة رؤيا تك بتصميم جميع أنواع التطبيقات , الخدمات التعليمية و الحكومية ونساعدك على تحويل أفكارك الى تطبيق فعلي يلبي إحتياجات المستخدمين</p>
                                 <div class="btn-part">

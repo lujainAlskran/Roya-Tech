@@ -3,4 +3,8 @@
 https://go.microsoft.com/fwlink/?LinkID=208121. 
 -->
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Dell\Desktop\Roya\Roya\bin\app.publish2\</_PublishTargetUrl>
+    <History>False|2021-11-04T13:48:11.1972754Z;False|2021-11-04T15:46:35.6467739+02:00;</History>
+  </PropertyGroup>
 </Project>

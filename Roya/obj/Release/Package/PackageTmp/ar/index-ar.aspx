@@ -7,15 +7,13 @@
             <div id="rs-vision" class="rs-vision style1 pt-100 pb-100 md-pt-80 md-pb-80">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-6 pl-20 md-pl-pr-15">
+                        <div class="col-lg-6 pl-20 md-pl-pr-15  pt-100">
                             <div class="sec-title mb-23 pr-85">
                                 <div class="sub-title primary">الرؤيا</div>
-                                <h2 class="title mb-20">الى أين نريد ان نصل ؟</h2>
                                 <p class="desc mb-0">
 								إلهام العالم ومنحه قوة التكنولوجيا
 								</p>
                                 <div class="sub-title primary">الرسالة</div>
-                                <h2 class="title mb-20">ما هي رسالتنا لك ؟</h2>
                                 <p class="desc mb-0">
                                     أبهر العالم بما لديك بحلول ذكية وافتح آفاقاً جديدة 
 								</p>
@@ -206,7 +204,7 @@
             <div class="rs-collaboration style1 bg4 mb-100">
                 <div class="wrap-1400">
                     <div class="row y-middle">
-                        <div class="col-md-6 pl-50 pt-100 pb-100">
+                        <div class="col-md-6 pl-50 pt-100 pb-100 ">
                             <div class="video-btn text-center mb-50">
                                 <a class="popup-videos" href="assets/videos/Blue and Orange Gradient Video Centric Tech Announcement  Reveal Video (2).mp4">
                                     <i class="fa fa-play"></i>
@@ -219,8 +217,8 @@
                             <div class="dual-btn">
                                 <div class="dual-btn-wrap">
                                     <a class="btn-left" href="#rs-about"><span>عن الشركة</span></a>
-                                    <span class="connector">او</span>
-                                </div>
+                                <span class="connector">او</span></div>
+                                
                                 <div class="dual-btn-wrap">
                                     <a class="btn-right" href="#rs-freequote"><span>ثواصل معنا</span></a>
                                 </div>
@@ -397,7 +395,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6">
-                        <div class="col-lg-6 pr-65 md-pr-15">
+                        <div class=" pr-65 md-pr-15">
                             <div id="form-messages" class="white-color"></div>
                             <form id="contactform" class="quote-form" runat="server">
                                 <div class="sec-title mb-53 md-mb-40">
@@ -413,7 +411,7 @@
                                     <div class="col-md-6">
                                         <asp:TextBox ID="emailTxt" runat="server" placeholder="الايميل" required="" ></asp:TextBox>
                                     </div>
-                                    <div class="col-md-6">
+                                    <div class="col-md-12">
                                         <asp:TextBox ID="phone" runat="server" placeholder="رقم الهاتف" required=""></asp:TextBox>
                                     </div>
                                     <div class="col-md-12">

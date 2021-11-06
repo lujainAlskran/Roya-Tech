@@ -3347,7 +3347,7 @@ input[type=range] {
                 height: 130px;
                 width: 100px;
             }
-      
+
             .full-width-header .rs-header .menu-area .logo-area .light {
                 display: inherit;
             }
@@ -4184,18 +4184,16 @@ input[type=range] {
             color: #101010;
         }
 
-            .full-width-header.header-style2.modify.red .rs-header .menu-area.sticky .expand-btn-inner .head-cta a:hover {
-                color: #ec4c6f;
-            }
+    .full-width-header.header-style2.modify.red .rs-header .menu-area.sticky .expand-btn-inner .head-cta a:hover {
+         color: #ec4c6f;
+     }
 
     .full-width-header.header-style2.modify.red .rs-header .menu-area .rs-menu-area .main-menu .mobile-menu .rs-menu-toggle {
         color: #101010 !important;
     }
 
-    .full-width-header.header-style2 .rs-header .menu-area .rs-menu-area .main-menu .mobile-menu 
-    {
-        display:none;    
-
+    .full-width-header.header-style2 .rs-header .menu-area .rs-menu-area .main-menu .mobile-menu ul li {
+        display: none;
     }
 
     .full-width-header.header-style2.modify.red .rs-header .menu-area .rs-menu-area .main-menu .mobile-menu .rs-menu-toggle:hover {
@@ -4219,18 +4217,18 @@ input[type=range] {
             background: transparent;
         }
 
-            .full-width-header.header-style3 .rs-header .menu-area .container {
-                background: rgba(255, 255, 255, 0.9);
-                padding: 0;
-                border-right: 10px solid;
-                border-left: 10px solid;
-                padding: 0 40px;
-                margin-top: 50px;
-                border-color: #106eea;
-                max-width: 1160px;
-                width: 100%;
-                transition: all 0.3s ease;
-            }
+.full-width-header.header-style3 .rs-header .menu-area .container {
+  background: rgba(255, 255, 255, 0.9);
+  padding: 0;
+   border-right: 10px solid;
+   border-left: 10px solid;
+  padding: 0 40px;
+ margin-top: 50px;
+ border-color: #106eea;
+  max-width: 1160px;
+  width: 100%;
+  transition: all 0.3s ease;
+}
 
                 .full-width-header.header-style3 .rs-header .menu-area .container .main-menu .rs-menu ul.nav-menu li a {
                     color: #1c1b1b;
@@ -6476,7 +6474,7 @@ body .modal-backdrop {
         overflow: hidden;
         width: 250px;
         height: 250px;
-        object-fit: over;
+        object-fit:cover;
         margin-bottom: 20px;
         margin-right: 40px
     }
@@ -6581,7 +6579,7 @@ body .modal-backdrop {
             margin-bottom: 10px;
         }
 
-        .rs-services.style5 .content-part 
+        .rs-services.style5 .content-part
         .rs-pie2 {
             display: inline-block;
             position: relative;
@@ -7915,7 +7913,7 @@ body .modal-backdrop {
         }
 
             .rs-portfolio.style3 .portfolio-item .content-part .middle .title {
-                font-style: 20px;
+                font-size: 20px;
                 margin-bottom: 8px;
             }
 
@@ -8535,7 +8533,6 @@ body .modal-backdrop {
         outline: none;
         color: #ffffff;
         padding: 11px 20px;
-       
     }
 
     .rs-quote.style1 .quote-form .submit-btn button {
@@ -10940,7 +10937,7 @@ body .modal-backdrop {
 
     .rs-freequote.style1:before {
         left: 0;
-        background-color: #fffff;
+        background-color: #fff;
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -12752,7 +12749,7 @@ body .modal-backdrop {
         }
 
             .rs-checkout .full-grid .payment-method .bottom-area .readon {
-                padding: 10 22px;
+                padding: 10px 22px;
                 border: none;
                 text-transform: capitalize;
                 font-weight: 400;

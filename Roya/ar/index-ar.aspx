@@ -204,7 +204,7 @@
             <div class="rs-collaboration style1 bg4 mb-100">
                 <div class="wrap-1400">
                     <div class="row y-middle">
-                        <div class="col-md-6 pl-50 pt-100 pb-100 ">
+                        <div class="text col-md-6 pl-50 pt-100 pb-100 ">
                             <div class="video-btn text-center mb-50">
                                 <a class="popup-videos" href="assets/videos/Blue and Orange Gradient Video Centric Tech Announcement  Reveal Video (2).mp4">
                                     <i class="fa fa-play"></i>

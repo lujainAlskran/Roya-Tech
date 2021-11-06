@@ -313,7 +313,6 @@
     <Content Include="ar\assets\videos\Roya-tech-fdown.net %282%29.mp4" />
     <Content Include="ar\back-end.aspx" />
     <Content Include="ar\career.aspx" />
-    <Content Include="ar\index-ar.html" />
     <Content Include="ar\style-rtl.css" />
     <Content Include="ar\style.css" />
     <Content Include="ar\index-ar.aspx" />
@@ -350,15 +349,6 @@
     <Content Include="assets\images\bg\bg41.jpg" />
     <Content Include="assets\images\bg\bg71.jpg" />
     <Content Include="assets\images\bg\career-bg2.jpg" />
-    <Content Include="assets\images\breadcrumbs\1.jpg" />
-    <Content Include="assets\images\breadcrumbs\2.jpg" />
-    <Content Include="assets\images\breadcrumbs\3.jpg" />
-    <Content Include="assets\images\breadcrumbs\4.jpg" />
-    <Content Include="assets\images\breadcrumbs\5.jpg" />
-    <Content Include="assets\images\breadcrumbs\6.jpg" />
-    <Content Include="assets\images\breadcrumbs\7.jpg" />
-    <Content Include="assets\images\breadcrumbs\8.jpg" />
-    <Content Include="assets\images\breadcrumbs\9.jpg" />
     <Content Include="assets\images\collaboration\1.jpg" />
     <Content Include="assets\images\collaboration\11.jpg" />
     <Content Include="assets\images\consultation\1.png" />

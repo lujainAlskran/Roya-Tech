@@ -282,8 +282,8 @@ ul {
 }
 
 .bg4 {
-    background-image: url(assets/images/bg/bg4.jpg);
     background-repeat: no-repeat;
+    background-image: url('assets/images/bg/bg4.jpg');
     background-size: cover;
     background-position: top center;
 }
@@ -2417,7 +2417,7 @@ body.home-ten .full-width-header.header-style2 .right_menu_togle .humburger:hove
     }
 
 body.home-ten .full-width-header.header-style2 .rs-header .menu-area .rs-menu-area {
-    justify-content: flex-end;
+    justify-content: flex;
 }
 
     body.home-ten .full-width-header.header-style2 .rs-header .menu-area .rs-menu-area .main-menu .rs-menu ul.nav-menu > li > a:hover {
@@ -2747,6 +2747,7 @@ body.home-eleven {
         body.home-eleven .full-width-header .rs-header .menu-area .rs-menu-area .expand-btn-inner ul > li {
             display: inline-block;
             margin-right: 16px;
+            margin-left: 16px;
         }
 
             body.home-eleven .full-width-header .rs-header .menu-area .rs-menu-area .expand-btn-inner ul > li > a {
@@ -3337,8 +3338,8 @@ input[type=range] {
             .full-width-header .rs-header .menu-area .logo-area img {
                 transition: 0.4s;
                 -webkit-transition: 0.4s;
-                height: 130px;
-                width: 150px;
+                height: 77px;
+                width: 133px;
             }
 
             .full-width-header .rs-header .menu-area .logo-area .dark {
@@ -3359,7 +3360,7 @@ input[type=range] {
 
         .full-width-header .rs-header .menu-area .main-menu .rs-menu ul.nav-menu li {
             display: inline-block;
-            margin-right: 40px;
+            margin-right: 50px;
             padding: 0;
         }
 
@@ -3374,7 +3375,6 @@ input[type=range] {
                 font-family: 'Tajawal', sans-serif;
                 color: #101010;
                 position: relative;
-                padding-right: 15px;
             }
 
                 .full-width-header .rs-header .menu-area .main-menu .rs-menu ul.nav-menu li a:before {
@@ -4192,8 +4192,10 @@ input[type=range] {
         color: #101010 !important;
     }
 
-    .full-width-header.header-style2 .rs-header .menu-area .rs-menu-area .main-menu .mobile-menu ul {
-        display:none;
+    .full-width-header.header-style2 .rs-header .menu-area .rs-menu-area .main-menu .mobile-menu 
+    {
+        display:none;    
+
     }
 
     .full-width-header.header-style2.modify.red .rs-header .menu-area .rs-menu-area .main-menu .mobile-menu .rs-menu-toggle:hover {
@@ -8533,6 +8535,7 @@ body .modal-backdrop {
         outline: none;
         color: #ffffff;
         padding: 11px 20px;
+       
     }
 
     .rs-quote.style1 .quote-form .submit-btn button {

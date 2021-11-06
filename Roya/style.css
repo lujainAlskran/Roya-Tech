@@ -16157,6 +16157,7 @@ inline-block;
 .rs-footer .footer-content .footer-post .post-wrap .post-desc a {
   color: #e0e0e0;
   font-weight: 600;
+  font-size:20px;
 }
 .rs-footer .footer-content .footer-post .post-wrap .post-desc a:hover {
   color: #106eea;
